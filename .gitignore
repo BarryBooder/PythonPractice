@@ -9,6 +9,7 @@ Desktop.ini
 *.egg
 *.egg-info
 *.py.un~
+*.py~
 dist
 build
 
